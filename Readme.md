@@ -73,9 +73,9 @@ int main() {
 }
 ```
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/aditya26062003/SimpleMath/blob/main/LICENSE) file for details.
 
-## 🙌 Contributing
+<!--## 🙌 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
 ## 🛠️ Built With
