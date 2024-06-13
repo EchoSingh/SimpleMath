@@ -1,0 +1,10 @@
+^C:\USERS\ADITY\DESKTOP\SIMPLEMATH\BUILD\CMAKEFILES\EAFFAFC38921121FD012A4A8E7601459\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/adity/Desktop/SimpleMath -BC:/Users/adity/Desktop/SimpleMath/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/adity/Desktop/SimpleMath/build/SimpleMath.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/adity/Desktop/SimpleMath/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/adity/Desktop/SimpleMath/include -g -std=gnu++11 -o CMakeFiles\\SimpleMathLib.dir\\src\\simplemath.cpp.obj -c C:\\Users\\adity\\Desktop\\SimpleMath\\src\\simplemath.cpp",
+  "file": "C:\\Users\\adity\\Desktop\\SimpleMath\\src\\simplemath.cpp",
+  "output": "CMakeFiles\\SimpleMathLib.dir\\src\\simplemath.cpp.obj"
+},
+{
+  "directory": "C:/Users/adity/Desktop/SimpleMath/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/adity/Desktop/SimpleMath/include -g -std=gnu++11 -o CMakeFiles\\test_program.dir\\tests\\main.cpp.obj -c C:\\Users\\adity\\Desktop\\SimpleMath\\tests\\main.cpp",
+  "file": "C:\\Users\\adity\\Desktop\\SimpleMath\\tests\\main.cpp",
+  "output": "CMakeFiles\\test_program.dir\\tests\\main.cpp.obj"
+}
+]

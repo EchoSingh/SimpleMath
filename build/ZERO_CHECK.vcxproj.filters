@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\adity\Desktop\SimpleMath\build\CMakeFiles\eaffafc38921121fd012a4a8e7601459\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EF484006-0D18-3DFE-A5AD-CEB66B9290EE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

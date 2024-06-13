@@ -1,0 +1,4 @@
+C:/Users/adity/Desktop/SimpleMath/build/CMakeFiles/SimpleMathLib.dir
+C:/Users/adity/Desktop/SimpleMath/build/CMakeFiles/test_program.dir
+C:/Users/adity/Desktop/SimpleMath/build/CMakeFiles/edit_cache.dir
+C:/Users/adity/Desktop/SimpleMath/build/CMakeFiles/rebuild_cache.dir
