@@ -73,7 +73,7 @@ int main() {
 }
 ```
 ## output :- 
-![output](![AN ANIME BOY](https://github.com/aditya26062003/Sacred-Backbench-AI-Creations/blob/main/pic1.jpg))
+![output]()
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/aditya26062003/SimpleMath/blob/main/LICENSE) file for details.
 
