@@ -73,7 +73,7 @@ int main() {
 }
 ```
 ## output :- 
-![output]()
+![output](https://github.com/aditya26062003/SimpleMath/blob/main/test_output.jpg)
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/aditya26062003/SimpleMath/blob/main/LICENSE) file for details.
 
