@@ -2,9 +2,6 @@
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://shields.io)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/username/SimpleMath.svg)](https://github.com/username/SimpleMath/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/username/SimpleMath.svg)](https://github.com/username/SimpleMath/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/username/SimpleMath.svg)](https://github.com/username/SimpleMath/network)
 
 Welcome to **SimpleMath**, a C++ library providing basic arithmetic operations, trigonometric functions, and advanced mathematical functions. 🌟
 
