@@ -27,7 +27,7 @@ Follow these steps to get started with the SimpleMath library:
 
 1. Clone the Repository
 ```sh
-git clone https://github.com/aditya26062003/SimpleMath.git
+git clone https://github.com/EchoSingh/SimpleMath.git
 cd SimpleMath
 ```
 2. Create a Build Directory
